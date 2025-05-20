@@ -1,0 +1,22 @@
+
+# External dependencies
+requests
+tqdm
+beautifulsoup4
+pymongo
+python-dotenv
+streamlit
+pillow
+pandas
+
+# LangChain and ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-google-genai
+
+# PDF processing
+reportlab
+
+# You may also need to pin compatible versions if required for stability
